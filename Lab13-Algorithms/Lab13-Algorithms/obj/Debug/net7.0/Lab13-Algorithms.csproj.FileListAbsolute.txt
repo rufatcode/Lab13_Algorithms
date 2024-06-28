@@ -1,0 +1,15 @@
+/Volumes/Mac/PB-101/Lab13_Algorithms/Lab13-Algorithms/Lab13-Algorithms/bin/Debug/net7.0/Lab13-Algorithms
+/Volumes/Mac/PB-101/Lab13_Algorithms/Lab13-Algorithms/Lab13-Algorithms/bin/Debug/net7.0/Lab13-Algorithms.deps.json
+/Volumes/Mac/PB-101/Lab13_Algorithms/Lab13-Algorithms/Lab13-Algorithms/bin/Debug/net7.0/Lab13-Algorithms.runtimeconfig.json
+/Volumes/Mac/PB-101/Lab13_Algorithms/Lab13-Algorithms/Lab13-Algorithms/bin/Debug/net7.0/Lab13-Algorithms.dll
+/Volumes/Mac/PB-101/Lab13_Algorithms/Lab13-Algorithms/Lab13-Algorithms/bin/Debug/net7.0/Lab13-Algorithms.pdb
+/Volumes/Mac/PB-101/Lab13_Algorithms/Lab13-Algorithms/Lab13-Algorithms/obj/Debug/net7.0/Lab13-Algorithms.csproj.AssemblyReference.cache
+/Volumes/Mac/PB-101/Lab13_Algorithms/Lab13-Algorithms/Lab13-Algorithms/obj/Debug/net7.0/Lab13-Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Mac/PB-101/Lab13_Algorithms/Lab13-Algorithms/Lab13-Algorithms/obj/Debug/net7.0/Lab13-Algorithms.AssemblyInfoInputs.cache
+/Volumes/Mac/PB-101/Lab13_Algorithms/Lab13-Algorithms/Lab13-Algorithms/obj/Debug/net7.0/Lab13-Algorithms.AssemblyInfo.cs
+/Volumes/Mac/PB-101/Lab13_Algorithms/Lab13-Algorithms/Lab13-Algorithms/obj/Debug/net7.0/Lab13-Algorithms.csproj.CoreCompileInputs.cache
+/Volumes/Mac/PB-101/Lab13_Algorithms/Lab13-Algorithms/Lab13-Algorithms/obj/Debug/net7.0/Lab13-Algorithms.dll
+/Volumes/Mac/PB-101/Lab13_Algorithms/Lab13-Algorithms/Lab13-Algorithms/obj/Debug/net7.0/refint/Lab13-Algorithms.dll
+/Volumes/Mac/PB-101/Lab13_Algorithms/Lab13-Algorithms/Lab13-Algorithms/obj/Debug/net7.0/Lab13-Algorithms.pdb
+/Volumes/Mac/PB-101/Lab13_Algorithms/Lab13-Algorithms/Lab13-Algorithms/obj/Debug/net7.0/Lab13-Algorithms.genruntimeconfig.cache
+/Volumes/Mac/PB-101/Lab13_Algorithms/Lab13-Algorithms/Lab13-Algorithms/obj/Debug/net7.0/ref/Lab13-Algorithms.dll
